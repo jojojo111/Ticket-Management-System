@@ -1,5 +1,3 @@
-开发环境及相关技术：基于 windows 10 /  html+css+js / jdbc / tomcat
-主要实现：总项目开发主要采敏捷开发和结对编程，分小组完成任务。主要实现简单订票系统，
-对存储于数据库的用户、车次、订单信息进行添加、删除、修改、多条件联合查询和分页查询。
-用户和管理员操作采用Web前端网页技术，采用js校验用户和管理员输入的信息，项目部署tomcat
-服务器，采用jdbc技术连接数据库。
+Development environment and related technology: 
+Based on Windows 10 / HTML + CSS + JS / JDBC / tomcat
+the main implementation of the project is agile development and pair programming, and the task is accomplished in groups. It mainly implements a simple booking system to add, delete, modify, multi-condition joint query and paging query to the user, train number and order information stored in the database. Users and administrators use Web front-end web page technology, use js to check the information input by users and administrators, deploy Tomcat server, and use JDBC technology to connect database.
