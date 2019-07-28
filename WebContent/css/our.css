@@ -1,0 +1,113 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-color: #fafafa;
+}
+li {
+	list-style: none; 
+	line-height: 100px;
+	
+}
+.header {
+	height: 100px;
+	background-color: #fff;
+}
+.inner {
+	width: 1200px;
+	height: 100px;
+	margin: 0 auto;
+	
+}
+.logo {
+	float: left;
+}
+.logo img {
+	width: 200px;
+	height: 100px;
+}
+.nav {
+	float: right;
+}
+.nav ul {
+	overflow: hidden;
+}
+.nav li  {
+	float: left;
+	margin: 0 20px;
+}
+.nav li a {
+	color: #333;
+	text-decoration: none;
+}
+.nav li a:hover {
+	color: #2288f6;
+}
+
+/* banner STAR */
+.banner {
+	height: 520px;
+}
+.banner img {
+	width: 1520px;
+}
+/* banner end */
+
+/*项目介绍模块*/
+.service{
+	width: 1055px;
+	margin: 0 auto 0;
+}
+.service-hd {
+	margin: 0 25px;
+}
+.service-hd h3 {
+	width: 167px;
+	height: 46px;
+	margin: -15px auto 0;
+	font-size: 26px;
+	
+}
+.service-hd p,h6 {
+	font-size: 16px;
+	color: #666;
+	line-height: 26px;
+	text-align: left;
+	width: 830px;
+	margin: 15px  auto 0;
+}
+/* 功能实现模块 */
+.case {
+	width: 1055px;
+	margin: 105px auto 0;
+}
+
+.footer {
+	height: 150px;
+	background-color: #191970;
+	overflow: hidden;
+	margin-top: 100px;
+	
+}
+.subnav {
+	text-align: center;
+	margin-top: 50px;
+	color: #f0f1f1;
+}
+.subnav a {
+	color: #f0f1f1;
+	text-decoration: none;
+	padding: 0 5px;
+	font-size: 14px;
+	line-height: 14px;
+}
+.subnav a:hover {
+	color: #2288f6;
+	text-decoration: none;
+}
+
+.our{
+	width:1158px;
+	height: 620px;
+}
